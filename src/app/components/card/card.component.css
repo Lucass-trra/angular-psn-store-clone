@@ -1,7 +1,7 @@
 .card__container{
 	position: relative;
-	border:3px solid #3E4357;
-	border-radius: 10px;
+	border: .2rem solid #3E4357;
+	border-radius: 0.5rem;
 	width: 350px;
 	height: 500px;
 
